@@ -1,6 +1,6 @@
 
 ---
-## Hi there 👋, I'm Marcelo\!
+## Hello, I'm Marcelo\!
 
   -  I’m currently learning **Backend Engineering**, **Object-Oriented Design**, and **system architecture** with a focus on **Java** and **Spring Boot**.
   -  I'm a Backend Java Developer in training, passionate about building robust, scalable, and high-performance server-side applications.
