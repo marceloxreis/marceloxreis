@@ -2,10 +2,10 @@
 ---
 ## Hello, I'm Marcelo\!
 
-  -  I’m currently learning **Backend Engineering**, **Object-Oriented Design**, and **system architecture** with a focus on **Java** and **Spring Boot**.
-  -  I'm a Backend Java Developer in training, passionate about building robust, scalable, and high-performance server-side applications.
-  -  My projects involve **REST API development**, backend logic implementation with Java, and **database integration** using SQL (PostgreSQL).
-  -  **Technical Stack:** Java, Python, C | Spring Boot | PostgreSQL, SQLite, MySQL | Git, REST APIs
-  -  Committed to mastering backend development best practices, design patterns, and efficient, secure coding techniques.
+  - I'm currently working as a Software Engineer Intern at Zoppy, on the Platform team, where I contribute to the internal infrastructure that supports a retail-focused loyalty CRM.                            
+  - I'm a Full-Stack Developer with a focus on backend, working day-to-day on production bug fixing, performance improvements, and tech-debt reduction.                                                          
+  - My work involves building and maintaining REST APIs with NestJS, frontend features in Angular, database work in PostgreSQL, and containerized environments with Docker.                                      
+  - Technical Stack: TypeScript, Java, Python | NestJS, Node.js | Angular | PostgreSQL, MySQL, SQLite | Docker | Git, REST APIs                                                                                  
+  - Committed to writing clean, maintainable, and well-tested code, applying solid design principles and engineering best practices.  
   -  How to reach me: [LinkedIn](https://www.linkedin.com/in/marceloxreis)
 ---
